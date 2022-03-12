@@ -35,7 +35,7 @@ main {
     margin-bottom: 5px;
 }
 
-.bg-pattern-top {
+.bg-pattern-card {
     width: 100%;
     height: 150px;
     background-image: url(./images/bg-pattern-card.svg);
@@ -54,7 +54,7 @@ main {
     border: 5px solid white;
     border-radius: 50%;
     position: relative;
-    top: -50px;
+    top: -60px;
     left: 115px;
     /* position: absolute;
     top: 293px; 
